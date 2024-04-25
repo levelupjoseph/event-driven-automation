@@ -1,6 +1,6 @@
 localhost ansible_connection=local
 
 [rhel_demo_servers]
-rhel-vm
+testrhel9
 
-rhel-vm ansible_host=YOUR_VM_HOSTNAME/IP
+testrhel9 ansible_host=192.168.56.29
